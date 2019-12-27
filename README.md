@@ -1,5 +1,4 @@
-# Chat App v2.0.0
+# Baatein a Chat App
 
 Using ReactJS,MobX,Webpack,Firestore
 
-Demo -  [Chat App](https://chat-app-e2738.firebaseapp.com/)
