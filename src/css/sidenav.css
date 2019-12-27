@@ -1,0 +1,28 @@
+header,
+main,
+footer {
+  padding-left: 300px;
+}
+.container {
+  padding-left: 200px;
+}
+
+@media only screen and (max-width: 992px) {
+  header,
+  main,
+  footer {
+    padding-left: 0;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .container {
+    padding-left: 0;
+  }
+}
+.sidenav-overlay {
+  left: 300px;
+}
+.menuColor {
+  color: #fb8c00;
+}
